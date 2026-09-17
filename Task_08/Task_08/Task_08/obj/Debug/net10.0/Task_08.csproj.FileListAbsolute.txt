@@ -1,0 +1,15 @@
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\bin\Debug\net10.0\Task_08.exe
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\bin\Debug\net10.0\Task_08.deps.json
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\bin\Debug\net10.0\Task_08.runtimeconfig.json
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\bin\Debug\net10.0\Task_08.dll
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\bin\Debug\net10.0\Task_08.pdb
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.AssemblyInfoInputs.cache
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.AssemblyInfo.cs
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.csproj.CoreCompileInputs.cache
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.sourcelink.json
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.dll
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\refint\Task_08.dll
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.pdb
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\Task_08.genruntimeconfig.cache
+D:\Depi\Tech\c# Tasks\Task_08\Task_08\Task_08\obj\Debug\net10.0\ref\Task_08.dll
